@@ -62,5 +62,16 @@ Essa é a estrutura JSON para fazer o POST e o PUT:
 
 > *"I met him fifteen years ago. I was told there was nothing left; no reason, no conscience, no understanding in even the most rudimentary sense of life or death, of good or evil, right or wrong. I met this... six year old child with this blank, pale, emotionless face, and... the blackest eyes - the devil's eyes. I spent eight years trying to reach him, and then another seven trying to keep him locked up because I realized that what was living behind that boy's eyes was purely and simply... evil."*
 ― **Samuel Loomis**
+```json
+{
+    "nome": "凤敏",
+    "identidade": "Feng Min ",
+    "genero": "Feminino",
+    "imagem": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ac/S09_charSelect_portrait.png/revision/latest/scale-to-width-down/150?cb=20200721164421"
+}
+```
+<img src= "https://pbs.twimg.com/media/E9ugVzLXEAYK310.jpg:large" style="zoom:20%;">
+
+> *"A young woman surprised me the other day. She is another guest in this nightmare I can not seem to wake up from. She came running, passed by a wounded girl and didn’t stop. Just a glance behind her, and she was off again. With a determined look on her face, like she had something important to do. A lone wolf maybe? I am not sure what I should call this new person."*
 
 Obrigado por testar e utilizar minha API, volte sempre!
